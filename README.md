@@ -44,3 +44,8 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 
 ## 📫 Contato
 - GitHub: https://github.com/gleicyannesantana15-stack
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/gleicyannesantana15-stack
